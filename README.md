@@ -1,5 +1,5 @@
 # Resources
 תמונות, גליונות סגנון, מדריכים, שאלות נפוצות ושאר משאבים
 
-# Credits
+## Credits
 Site logo by [@zeiiv](https://tooot.im/@zeiiv)
