@@ -13,6 +13,10 @@ Along came [@EshGalili](https://tooot.im/@EshGalili) and started playing with a 
 And after several more iterations he [invited peeps to vote](https://tooot.im/@EshGalili/262891)
 <img src=GaliliOffer2.png width=80% />
 
+Also:
+
+<img src=GaliliOffer3.png width=80% />
+
 Another addition [announced](https://tooot.im/@Mordech/264862) by [Mordech](https://tooot.im/@Mordech), sources [are here](https://goo.gl/PNpb0z).
 
 <img src=MordechBrown.png width=80% />
