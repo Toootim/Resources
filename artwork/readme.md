@@ -17,5 +17,6 @@ Finally an offer by Ira, based on a public domain (CC0) strawberry on a low-resu
 lephantoid from the project's original artwork.
 
 <img src=mastodon-Ivri-red-on-white.JPG width=80% />
+<img src=mastodon-Ivri-red-on-mist-strawberries.JPG width=80% />
 
 You can find the [original Gimp sources here](./mastodon-Ivri.xcf).
