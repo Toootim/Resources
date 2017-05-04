@@ -17,8 +17,7 @@ And after several more iterations he [invited peeps to vote](https://tooot.im/@E
 
 Also:
 
-<img src=GaliliOffer3.png width=45% />
-<img src=GaliliOffer4.png width=45% />
+<img src=GaliliOffer3.png width=45% /><img src=GaliliOffer4.png width=45% />
 
 ## Ira
 An offer by Ira, based on a public domain (CC0) strawberry on a low-resulution
@@ -44,3 +43,10 @@ Another addition [announced](https://tooot.im/@Mordech/264862) by [Mordech](http
 
 One by @hananc, based on the same graphic as Ira
 <img src=HananC1.jpg width=80% />
+
+## @Sfamlizard
+
+Scribbled something on a piece of paper, and I think we might have a winner...
+
+<img src=Sfamlizard1.jpg width=80% />
+<img src=Sfamlizard3.png width=80% />
