@@ -34,10 +34,13 @@ Another addition [announced](https://tooot.im/@Mordech/264862) by [Mordech](http
 
 <img src=MordechBrown.png width=80% />
 <img src=MordechWhite.png width=80% />
+And my personal fav:
+<img src=MordechHairy.png width=80% />
 
 ## @EladHen
 
 <img src=EladHen1.png width=80% />
+<img src=EladHen2.png width=80% />
 
 ## Hanan Cohen
 
