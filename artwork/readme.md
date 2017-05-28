@@ -41,7 +41,7 @@ And my personal fav:
 
 <img src=EladHen1.png width=80% />
 <img src=EladHen2.png width=80% />
-
+Also source for [EladHen2.png in SVG](EladHen2.svg).
 ## Hanan Cohen
 
 One by @hananc, based on the same graphic as Ira
