@@ -76,8 +76,8 @@ nobody@tooot.im
 - אם פתחת את הפרופיל של מישהי משרת אחר ואת רוצה לעקוב אחריה, אפשר או לקחת את הכתובת של הפרופיל שלה מהדפדפן, להכניס בחיפוש אצלך בשרת הבית, וככה לפתוח שם את הפרופיל ולעקוב – או ללחוץ על כפתור Remote Follow. אז תתבקשי להקליד את שם היוזר המלא שלך, כולל שרת (למשל awesome@tooot.im) ואז תגיעי לעמוד בשרת הבית שלך בו תתבקשי לאשר שאת רוצה לעקוב.
 
 ## איך למצוא שרתים מעניינים
-רשימות שרתים ומפות, ברות חיפוש) :
-<ul>
+רשימות שרתים ומפות, ברות חיפוש :
+<ul dir="rtl">
   <li><a href="https://fediverse.observer/">Fediverse.Observer</a>
   מכיל אינדקס ומפה שניתן לחפש בהם
      שרתים לפי כל מיני פרמטרים)
@@ -89,7 +89,6 @@ nobody@tooot.im
   </li>
   <li><a href="https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#7/30.974/36.277">Mastodon Near Me מפה</a>
   </li>
-</p>
 <p>
  <li>ספציפיים למסטודון
   <a href="Server Directory : https://instances.social/"> Instances.Social</a> 
