@@ -77,8 +77,8 @@ nobody@tooot.im
 
 ## איך למצוא שרתים מעניינים
 רשימות שרתים ומפות, ברות חיפוש :
-<ul dir="rtl">
-  <li><a href="https://fediverse.observer/">Fediverse.Observer</a>
+<ul>
+  <li><a href="https://fediverse.observer/"> הרשימה של Fediverse.Observer</a>
   מכיל אינדקס ומפה שניתן לחפש בהם
      שרתים לפי כל מיני פרמטרים)
      המפה נמצאת תחת https://fediverse.observer/map 
