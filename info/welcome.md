@@ -1,5 +1,5 @@
 <meta charset="utf-8">
-<div dir="rtl">
+<section dir="rtl">
 
   # ברוכות הבאות למסטודון!
 
@@ -76,19 +76,34 @@ nobody@tooot.im
 - אם פתחת את הפרופיל של מישהי משרת אחר ואת רוצה לעקוב אחריה, אפשר או לקחת את הכתובת של הפרופיל שלה מהדפדפן, להכניס בחיפוש אצלך בשרת הבית, וככה לפתוח שם את הפרופיל ולעקוב – או ללחוץ על כפתור Remote Follow. אז תתבקשי להקליד את שם היוזר המלא שלך, כולל שרת (למשל awesome@tooot.im) ואז תגיעי לעמוד בשרת הבית שלך בו תתבקשי לאשר שאת רוצה לעקוב.
 
 ## איך למצוא שרתים מעניינים
-רשימות שרתים (ברות חיפוש) :
-  [fediverse.observer](https://fediverse.observer/)  (מכיל אינדקס ומפה שניתן לחפש בהם שרתים לפי כל מיני פרמטרים)
-  
-ספציפיים למסטודון
-  Server Directory : https://instances.social/ 
-  
-   
+רשימות שרתים ומפות, ברות חיפוש) :
+<ul>
+  <li><a href="https://fediverse.observer/">Fediverse.Observer</a>
+  מכיל אינדקס ומפה שניתן לחפש בהם
+     שרתים לפי כל מיני פרמטרים)
+     המפה נמצאת תחת https://fediverse.observer/map 
+  </li>
+  <li><a href="https://www.fediverse.to/"> To the fediverse !</a>
+  </li>
+  <li><a href="https://fedidb.org/network/">FediDB</a>
+  </li>
+  <li><a href="https://umap.openstreetmap.fr/en/map/mastodon-near-me_828094#7/30.974/36.277">Mastodon Near Me מפה</a>
+  </li>
+</p>
+<p>
+ <li>ספציפיים למסטודון
+  <a href="Server Directory : https://instances.social/"> Instances.Social</a> 
+ </li> 
+</ul>
 
-  המפה נמצאת תחת https://fediverse.observer/map 
 אינדקסים נושאיים
-  
-  https://fediverse.party/en/portal/servers/
+<ul>
+  <li><a href="https://fediverse.party/en/portal/servers/"> רשימה בתוך Fediverse Party </a>
+  </li>
+  <li><a href="https://joinfediverse.wiki/Local_instances/"> רשימה בתוך הויקי של joinfediverse</a>
 
+  </li>
+</ul>
 
 ## דברים שיכולים לעזור בהתחלה
 
@@ -104,13 +119,17 @@ nobody@tooot.im
 ## מדריכים למתחילים 
   
   המדריכים האלו מושקעים יותר, מתעדכנים יותר, וכתובים היטב (באנגלית)
-https://axbom.com/mastodon-guide/
-https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/
-https://github.com/joyeusenoelle/GuideToMastodon/
-  
+<ul>
+  <li><a href="https://axbom.com/mastodon-guide/"> המדריך של Axbom  </a></li>
+    <li><a href="https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/">   (העמוד למתחילים ב) Fedi.Tips</a></li>
+  <li><a href="https://github.com/joyeusenoelle/GuideToMastodon/"> המדריך של joyeusenoelle </a></li>
+  <li><a href="https://joinfediverse.wiki/Category:Beginners_guide">Category:Beginners guide בתוך הויקי של joinfediverse</a></li>
+<li><a href="https://fedi.guide/">Fediverse Guide</a>
+  </li>
+</ul>
   
 ## מצאת טעות? יש לך הצעה לשיפור או לתוספת?
 
-ממש אשמח לדעת מזה! הכי טוב הצעות לעריכה כאן, אם אתם יודעים לעשות את זה, או פשוט חיצרוץ אל <span dir="ltr">[@admin@tooot.im](https://tooot.im/@admin)</span>. תודה מראש!
+ממש נשמח לדעת מזה! הכי טוב הצעות לעריכה כאן, אם אתם יודעים לעשות את זה, או פשוט חיצרוץ אל <span dir="ltr">[@admin@tooot.im](https://tooot.im/@admin)</span>. תודה מראש!
 
-</div>
+</section>
