@@ -8,20 +8,24 @@
   
 
 - [מסטודון](https://joinmastodon.org/) היא רשת חברתית מבוזרת, שתווותים הוא רק מופע (שרת) אחד מתוכה. מסטודון בעצמה היא חלק מפרוייקט גדול עוד יותר, של רשתות מבוזרות שיכולות לדבר אחת עם השניה, שנקרא לפעמים "הפדרציה" ולפעמים "פדיברס". פרטים נוספים:
-  
-  &#x2067;  - [Welcome to the Fediverse](https://joinfediverse.wiki/Main_Page/Fancy) (ויקי בכמה שפות)  
-  &#x2067;  - [fediverse.info](https://fediverse.info/) (אתר יותר פשוט להבנה)  
-  &#x2067;  - [Fedi.Tips](https://fedi.tips/)עוד אתר יותר פשוט להבנה)
-  
-  &#x2067;  - [fediverse.party](https://fediverse.party/)  (מדריך שירותים ואפליקציות נוסף)
-  
+
+  <ul>
+  <li> [Welcome to the Fediverse](https://joinfediverse.wiki/Main_Page/Fancy) (ויקי בכמה שפות) </li>
+  <li>
+  [fediverse.info](https://fediverse.info/) (אתר יותר פשוט להבנה)  </li>
+  <li>[Fedi.Tips](https://fedi.tips/)עוד אתר יותר פשוט להבנה)</li>
+  <li> [fediverse.party](https://fediverse.party/)  (מדריך שירותים ואפליקציות נוסף) </li>
+  </ul>
+
+
+
 - כל משתמשת מחוברת לשרת אחד, אבל כל שרת מחובר להרבה שרתים אחרים. תווותים מחובר למאות שרתים אחרים כרגע. כל אינטראקציה שלך כמשתמשת עוברת דרך שרת הבית שלך. (זה קצת כמו אימייל - יש מלא שרתים, ולכל משתמשת יש את השם שלה בשרת שלה אבל צריך גם להוסיף את שם השרת כדי להגיע אליה - אני למשל <span dir="ltr">[@admin@tooot.im](https://tooot.im/@admin)</span> - כלומר admin בשרת [tooot.im](https://tooot.im))
 
-- לפני שאת מתחילה לעקוב אחרי אנשים מומלץ לשים תמונת פרופיל ותיאור כלשהו בפרופיל ולכתוב פוסט (חיצרוץ[1^]) פומבי. אחרת תיראי כמו קריפית שעוקבת מהצללים בלי להוציא צליל. כדי לשנות את פרטי הפרופיל שלך תלחצי על Preferences או על אייקון גלגל השיניים הקטן.
+- לפני שאת מתחילה לעקוב אחרי אנשים מומלץ לשים תמונת פרופיל ותיאור כלשהו  בפרופיל ולכתוב פוסט (חיצרוץ [^1]) פומבי. אחרת תיראי כמו קריפית שעוקבת מהצללים בלי להוציא צליל. כדי לשנות את פרטי הפרופיל שלך תלחצי על Preferences או על אייקון גלגל השיניים הקטן.
     
 
      
-[1^] "חיצרוץ" = תרגום של Toot, המונח המקורי לסטטוס ברשת מסטודון. נשמר מטעמי נוסטלגיה אבל הרגישו חופשי להשתמש בכל מונח אחר
+[^1] "חיצרוץ" = תרגום של Toot, המונח המקורי לסטטוס ברשת מסטודון. נשמר מטעמי נוסטלגיה אבל הרגישו חופשי להשתמש בכל מונח אחר
   
 
 ## איך למצוא אנשים מעניינים  
@@ -117,10 +121,11 @@ nobody@tooot.im
 
 ## מדריכים למתחילים 
   
-  המדריכים האלו מושקעים יותר, מתעדכנים יותר, וכתובים היטב (באנגלית)
+  המדריכים האלו מושקעים יותר מהדף שלנו, מתעדכנים יותר, וכתובים היטב
 <ul>
+  <li><a href="https://internet-israel.com/%d7%97%d7%93%d7%a9%d7%95%d7%aa-%d7%90%d7%99%d7%a0%d7%98%d7%a8%d7%a0%d7%98/%d7%9e%d7%a1%d7%98%d7%95%d7%93%d7%95%d7%9f-%d7%9e%d7%91%d7%95%d7%90/">המבוא של רן בר-זיק</a></li>
   <li><a href="https://axbom.com/mastodon-guide/"> המדריך של Axbom  </a></li>
-    <li><a href="https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/">   (העמוד למתחילים ב) Fedi.Tips</a></li>
+  <li><a href="https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/">   (העמוד למתחילים ב) Fedi.Tips</a></li>
   <li><a href="https://github.com/joyeusenoelle/GuideToMastodon/"> המדריך של joyeusenoelle </a></li>
   <li><a href="https://joinfediverse.wiki/Category:Beginners_guide">Category:Beginners guide בתוך הויקי של joinfediverse</a></li>
 <li><a href="https://fedi.guide/">Fediverse Guide</a>
