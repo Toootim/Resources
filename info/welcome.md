@@ -124,7 +124,8 @@
   <li><a href="https://fedi.tips/mastodon-and-the-fediverse-beginners-start-here/">   (העמוד למתחילים ב) Fedi.Tips</a></li>
   <li><a href="https://github.com/joyeusenoelle/GuideToMastodon/"> המדריך של joyeusenoelle </a></li>
   <li><a href="https://joinfediverse.wiki/Category:Beginners_guide">Category:Beginners guide בתוך הויקי של joinfediverse</a></li>
-<li><a href="https://fedi.guide/">Fediverse Guide</a>
+  <li><a href="https://fedi.guide/">Fediverse Guide</a></li>
+  <li><a href="https://youtu.be/KhNsUhkq9-w">סדנת המתחילים של יובל טליה</a> (אחת משלנו!) ביוטיוב
   </li>
 </ul>
   
