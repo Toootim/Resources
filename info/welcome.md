@@ -128,9 +128,14 @@
   <li><a href="https://youtu.be/KhNsUhkq9-w">סדנת המתחילים של יובל טליה</a> (אחת משלנו!) ביוטיוב
   </li>
 </ul>
-  
+    
 ## מצאת טעות? יש לך הצעה לשיפור או לתוספת?
 
 ממש נשמח לדעת מזה! הכי טוב הצעות לעריכה כאן, אם אתם יודעים לעשות את זה, או פשוט חיצרוץ אל <span dir="ltr">[@admin@tooot.im](https://tooot.im/@admin)</span>. תודה מראש!
 
-</section>
+
+## רשיון
+
+כללי קהילה אלו מפורסמים תחת רישיון Creative Commons ייחוס-לא מסחרי-שיתוף זהה 4.0
+[https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+</div>
