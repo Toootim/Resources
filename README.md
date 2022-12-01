@@ -14,7 +14,7 @@
 
 # Resources (English)
 
-- [Federation Restrictions List (DRAFT)](https://github.dev/Toootim/Resources/blob/main/info/Tooot.imRestrictions.html), updated by @playmobilmeister 01/12/2022
+- [Federation Restrictions List (DRAFT)](https://raw.githack.com/Toootim/Resources/main/info/Tooot.imRestrictions.html), updated by @playmobilmeister 01/12/2022
 
 </div>
 
