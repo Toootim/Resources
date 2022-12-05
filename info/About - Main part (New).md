@@ -1,4 +1,4 @@
-<section dir="ltr">
+<section dir="rtl">
 
 ### **תרומות לתחזוקת תווות.ים**
 
