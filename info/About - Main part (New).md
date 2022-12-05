@@ -48,7 +48,7 @@
 
 בעלי השרת ומנהלי הקהילה הם הגורם הסופי המחליט מהי פרשנות נכונה של הכללים.
 
-דוגמאות להתנהלות נפוצה שיכולה להחשב כהטרדה:
+### דוגמאות להתנהלות נפוצה שיכולה להחשב כהטרדה:
 
 המשך אינטראקציה עם משתמש.ת שביקש.ה באופן ברור להפסיק את האינטראקציה הזו, או עידוד משתמשים אחרים לעשות זאת
 .
@@ -118,7 +118,7 @@
 
 ✅  ברמת הפרטיות הזו, **אין חובה** להגדיר תוכן כזה כרגיש או להסתירו תחת אזהרת תוכן
 
-<div dir="ltr">
+
 
 |  | public 🌏 | unlisted 🔓 | בעוקבים בלבד 🔒 |
 | --- | --- | --- | --- |
@@ -127,7 +127,7 @@
 | עירום, תוכן פורנוגרפי או מיני מאוד, כולל תוכן פורנוגרפי טקסטואלי | ❌ | ❌ | ✅  |
 | כל תוכן המציג אלימות (כולל ייצוגים גרפיים של אנשים מתים וחיות מתות, ושל אנשים חמושים) או מדבר על התכנים האסורים בשרת | ❌ | ❌ | ✅  |
 | תמונות מזון הכולל בשר | ❌ | ❌ | ✅ |
-</div>
+
 
 שרשורים מרובי פוסטים חייבים להיעשות בדרך של תגובה לפוסט הקודם בשרשור, ורצוי מאוד במצב חשיפה unlisted,   וזאת על מנת שלא להספים את פיד הבית של העוקבות שלכם ואת הפיד המקומי
 
@@ -150,13 +150,15 @@
 רובוטי מעקב (followbots) - רובוטים שעוקבים אחרי כל משתמש שהם רואים ברשת המבוזרת ללא אבחנה.
 
 מנועי חיפוש שלא מספקים אפשרות ויתור (opt-out) ברמת השרת והמשתמשים האינדיבידואלים עוד בטרם האינדוקס הראשון.
-
+<div dir="ltr">
+ 
 THE FOLLOWING BOTS WILL BE INSTABLOCKED FROM THIS SERVER AND WILL BE REPORTED TO OTHER SERVERS:
 
 Followbots that follow users indiscriminately across the federation.
 
 Search engines and index services that don’t offer server-level and user-level opt out prior to the first index.
 
+</div>
 פרסום ותוכן שיווקי
 
 משתמשים המפיצים רק או כמעט ורק תוכן פרסומי ושיווקי ייחשבו כספאם וייחסמו מהשרת.
@@ -171,14 +173,19 @@ Search engines and index services that don’t offer server-level and user-level
 
 שינויים לכללי הקהילה, ככל שיהיו כאלו, יפורסמו בדף זה ויותרעו בחשבונות האדמינים השונים, ויחייבו את כלל משתמשי השרת מרגע פרסומם.
 
-November 16, 2022 10:41 PM
 
-## רשיון
+### הערות
+
+1. מיקום השרת הנוכחי: צרפת
+ 
+ ## רשיון
 
 כללי קהילה אלו מפורסמים תחת רישיון Creative Commons ייחוס-לא מסחרי-שיתוף זהה 4.0
 [https://creativecommons.org/licenses/by-nc-sa/4.0/](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-Emoji and other Graphics license and attribution
+<div dir="ltr">
+
+### Emoji and other Graphics license and attribution
 
 | Element & Creator Link | Provider | license | license Defintion by | license date | license link |
 | --- | --- | --- | --- | --- | --- |
@@ -187,9 +194,8 @@ Emoji and other Graphics license and attribution
 | Strawberry2 Emoji | Streamlinehq:Vincent Le Moign | Creative Commons - CC BY 4.0 |  | 24/11/2022 | https://creativecommons.org/licenses/by/4.0/ |
 | Strawberry Box | Lima Studio | “Digital License” | Iconscout.com | 24/11/2022 | https://iconscout.com/licenses#iconscout |
 
-### הערות
+ </div>
 
-1. מיקום השרת הנוכחי: צרפת
 
 ## צוי איסור פרסום
 
