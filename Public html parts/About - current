@@ -1,23 +1,20 @@
 <div dir="rtl">
   <section>
-      <h1>סטטוס הרשמה</h1>
+  <p>&#9940 ההרשמה <strong>בהזמנה</strong></p>
 
-      <p>&#9940 ההרשמה <strong>סגורה</strong></p>
-
-      <p>ההרשמה סגורה כרגע, עקב גידול מהיר באוכלוסיית האתר. ניתן במקום לפתוח חשבון במופע אחר או לפתוח אחד חדש!
-      </p>
-      <h4>שרתים אחרים בעברית</h4>
-      <p> לשרתים עבריים אחרים בפדרציה שאנחנו מכירים לחצו על הכותרת הבאה:
-          <details>
-              <summary>רשימת <strong>השרתים</strong> (נפתחת בלחיצה)</summary>
-              <ul>
-                  <li>&#x1F353<a href="https://hayu.sh/">היוש</a></li>
-                  <li>&#x1F353<a href="https://hed.im/">הד.ים</a></li>
-                  <li>&#x1F353<a href="https://pirsamti.com/">פרסמתי.קום</a></li>
-                  <li>&#x1F353<a href="https://leftodon.social/">לפטודון.סושיאל</a></li>
-                  <li>&#x1F353<a href="https://kishkush.net/">קשקוש.נט</a></li>
-              </ul>
-      </p>
+  <p>ההרשמה למופע בהזמנה בלבד. לקבלת הזמנה ניתן לפנות לכל משתמש.ת רשום.ה
+  </p>
+  <h4>שרתים אחרים בעברית</h4>
+  <p> לשרתים עבריים אחרים בפדרציה שאנחנו מכירים - נסו את
+  <ul dir="rtl">
+    <li>&#x1F353<a href="https://hayu.sh/">היוש</a></li>
+    <li>&#x1F353<a href="https://hed.im/">הד.ים</a></li>
+    <li>&#x1F353<a href="https://pirsamti.com/">פרסמתי.קום</a></li>
+    <li>&#x1F353<a href="https://leftodon.social/">לפטודון.סושיאל</a></li>  
+    <li>&#x1F353<a href="https://kishkush.net/">קשקוש.נט</a></li>  
+    <li>&#x1F353<a href="https://reshet.social/">רשת.סושיאל</a></li>  
+  </ul>
+  </p>
   </section>
   <hr>
   <h1>כללי הקהילה בשרת זה</h1>
