@@ -7,7 +7,7 @@
 
 - [ברוכות הבאות למסטודון](https://github.com/Toootim/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
 - [כמה שרתים נחמדים](https://github.com/Toootim/Resources/blob/master/info/instances.md) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
-- [רשימה אינטראקטיבית של שרתים ואמוג'יז](https://github.com/Toootim/Resources/blob/master/info/instances.md) - למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
+- [רשימה אינטראקטיבית של שרתים ואמוג'יז](https://github.com/Toootim/Resources/wiki/Searchabele-and-Sortable-Restrictions-&-Emoji-Lists) - למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
 </div>
 
 <div dir ="ltr">
