@@ -7,14 +7,17 @@
 
 - [ברוכות הבאות למסטודון](https://github.com/Toootim/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
 - [כמה שרתים נחמדים](https://github.com/Toootim/Resources/blob/master/info/instances.md) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
-
+- [רשימה אינטראקטיבית של שרתים ואמוג'יז](https://github.com/Toootim/Resources/blob/master/info/instances.md) - למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
 </div>
 
 <div dir ="ltr">
 
 # Resources (English)
 
-- [Federation Restrictions List (DRAFT)](https://raw.githack.com/Toootim/Resources/main/info/Tooot.imRestrictions.html), updated by @playmobilmeister 01/12/2022
+The Following interactive lists can be found in the [Wiki](https://raw.githack.com/Toootim/Resources/main/info/Tooot.imRestrictions.html), updated by @aRubes on 28/01/2023
+
+- Federation Restrictions List
+- Emoji List
 
 </div>
 
