@@ -1,0 +1,35 @@
+---
+title: Tooot.im Federation Restrictions and Local Emoji
+date: today
+date-format: iso
+author: aRubes@tooot.im
+
+format:
+  gfm:
+    toc: true
+    df-print: paged
+    standalone: true
+    keep-yaml: true
+---
+
+```{r libraries}
+#| echo: false
+#| output: false
+
+library(reactable)
+library(rtoot)
+library(dplyr)
+```
+
+## Federation Restrictions
+
+```{r Restrictions}
+#| echo: false
+
+Restrictions <- rtoot::get_instance_blocks("tooot.im")
+Restrictions <- Restrictions[, -2]
+
+Restrictions
+```
+
+
