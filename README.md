@@ -14,7 +14,7 @@
 
 # Resources (English)
 
-The Following interactive lists can be found in the [Wiki](https://raw.githack.com/Toootim/Resources/main/info/Tooot.imRestrictions.html), updated by @aRubes on 28/01/2023
+The Following interactive lists can be found in the [Wiki](https://github.com/Toootim/Resources/wiki/Searchabele-and-Sortable-Restrictions-&-Emoji-Lists), updated by @aRubes on 28/01/2023
 
 - Federation Restrictions List
 - Emoji List
