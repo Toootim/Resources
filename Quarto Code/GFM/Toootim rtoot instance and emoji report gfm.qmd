@@ -1,5 +1,5 @@
 ---
-title: Tooot.im Federation Restrictions and Local Emoji
+title: Tooot.im Federation Restrictions
 date: today
 date-format: iso
 author: aRubes@tooot.im
