@@ -14,7 +14,8 @@
 
 # Resources (English)
 
-The Following interactive lists can be found in the [Wiki](https://github.com/Toootim/Resources/wiki/Searchabele-and-Sortable-Restrictions-&-Emoji-Lists), updated by @aRubes on 28/01/2023
+The Following interactive lists can be found in the [Wiki](https://github.com/Toootim/Resources/wiki/Searchabele-and-Sortable-Restrictions-&-Emoji-Lists), updated by @aRubes on 2023-02-02
+
 
 - Federation Restrictions List
 - Emoji List
