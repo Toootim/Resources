@@ -7,21 +7,15 @@ author: aRubes@tooot.im
 format:
   gfm:
     toc: true
+    toc-depth: 2
     df-print: paged
     standalone: true
-    keep-yaml: true
+    keep-yaml: false
 ---
 
-```{r libraries}
-#| echo: false
-#| output: false
-
-library(reactable)
-library(rtoot)
-library(dplyr)
-```
-
 ## Federation Restrictions
+
+
 
 ```{r Restrictions}
 #| echo: false

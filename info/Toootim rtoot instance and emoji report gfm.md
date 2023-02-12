@@ -1,16 +1,7 @@
----
-title: Tooot.im Federation Restrictions
-date: today
-date-format: iso
-author: aRubes@tooot.im
-
-format:
-  gfm:
-    toc: true
-    df-print: paged
-    standalone: true
-    keep-yaml: true
----
+Tooot.im Federation Restrictions
+================
+aRubes@tooot.im
+2023-02-12
 
 - <a href="#federation-restrictions"
   id="toc-federation-restrictions">Federation Restrictions</a>
@@ -22,25 +13,37 @@ format:
 | domain                                    | severity | comment                                                                                                                                                   |
 |:------------------------------------------|:---------|:----------------------------------------------------------------------------------------------------------------------------------------------------------|
 | 101010.pl                                 | silence  | Seems to tolerate holocaust deniers                                                                                                                       |
+| amala.schwartzwelt.xyz                    | silence  | Antisemitism                                                                                                                                              |
+| brighteon.social                          | silence  | Racism, homophobia, climate denial, plague advocacy                                                                                                       |
 | bylines.social                            | silence  | Okay with transphobia                                                                                                                                     |
+| community.cockworshipper.com              | silence  | no CWs on porn                                                                                                                                            |
 | detro\*\*\*\*\*\*\*\*\*\*.com             | silence  | Continuously allowing explicit Nazism, Homophobia and Racism                                                                                              |
 | deve***.***.com                           | silence  |                                                                                                                                                           |
+| eveningzoo.club                           | silence  |                                                                                                                                                           |
 | jabb.in                                   | silence  |                                                                                                                                                           |
 | liberdon.com                              | silence  |                                                                                                                                                           |
+| mugicha.club                              | silence  | Racism                                                                                                                                                    |
 | newjack.city                              | silence  |                                                                                                                                                           |
 | newsie.social                             | silence  | chill with transphobia                                                                                                                                    |
+| nukem.biz                                 | silence  | Racism                                                                                                                                                    |
 | pawoo.net                                 | silence  | sexualized depictions of children                                                                                                                         |
 | peertu**.**\*\*\*\*\*y.com                | silence  | Still promotes “Sandy Hoax” disinformation conspiracy theory which has been debunked                                                                      |
+| pl.kitsunemimi.club                       | silence  | Racism, homophobia                                                                                                                                        |
 | pl.shiptoaster.xyz                        | silence  | NA                                                                                                                                                        |
+| pleroma.elementality.org                  | silence  | Transphobia                                                                                                                                               |
 | pleroma.tuxcrafting.cf                    | silence  | NA                                                                                                                                                        |
+| pp.logografos.com                         | silence  | Racism, homophobia                                                                                                                                        |
+| rcsocial.net                              | silence  | Admin equates acceptance of non-conforming genders to Satanism and icites for violence against people who accept                                          |
 | republic.red                              | silence  | Admin spreads legit COVID19 research while misrepresenting its conclusions and omitting later research                                                    |
 | satania.space                             | silence  | NA                                                                                                                                                        |
 | short\*\*\*\*\*\*\*n.ch                   | silence  | Child porn (animated), Trans bullies, death threats, antisemitism                                                                                         |
 | sinblr.com                                | silence  | NA                                                                                                                                                        |
 | social.dev-wiki.de                        | silence  | allows dissemination of neo-nazi propoganda                                                                                                               |
+| social.jacksgloryhole.com                 | silence  | Unmarked lewd photo in admin profile banner and other posts                                                                                               |
 | social.l\*\*\*\*\*\*\*\*\*\*\*\*\*ons.net | silence  | Promotion of Racism and extreme bigotry, harassment of trans                                                                                              |
 | social.targaryen.house                    | silence  |                                                                                                                                                           |
 | squid.kids                                | silence  | Nazism, white supremacy, transphobia                                                                                                                      |
+| thebased.club                             | silence  | Racism, transphobia                                                                                                                                       |
 | weeb.academy                              | silence  | NA                                                                                                                                                        |
 | www.banepo.st                             | silence  | racism, homophobia                                                                                                                                        |
 | \*.activitypub-troll.cf                   | suspend  |                                                                                                                                                           |
@@ -51,12 +54,13 @@ format:
 | 2a06:98c0:3600::103                       | suspend  | Unidentified Scraping Activity                                                                                                                            |
 | aethy.com                                 | suspend  | Child porn                                                                                                                                                |
 | ba*.*t                                    | suspend  | Antisemitism                                                                                                                                              |
-| baraag.net                                | suspend  | Child porn                                                                                                                                                |
+| baraag.net                                | suspend  | Child porn including child rape porn                                                                                                                      |
 | beefyboys.win                             | suspend  | Admin super racist, homophobe, transphobe, and antisemite and proud of it                                                                                 |
 | cachapa.moe                               | suspend  | Antisemitism                                                                                                                                              |
 | calo\*\**.*lub                            | suspend  | homophobia, transphobia, Racism, promoting of harassment                                                                                                  |
 | chud\*\*\*\*.lol                          | suspend  | Transphobia                                                                                                                                               |
 | eatthebugs.social                         | suspend  | Antisemitism, harassment by Admin                                                                                                                         |
+| eeeeeeeee.eu                              | suspend  | too boring                                                                                                                                                |
 | eientei.org                               | suspend  | Antisemitism                                                                                                                                              |
 | endtimebelievers.com                      | suspend  | Extreme religious intolerance, Posting objectionable anti-vaccine content, Antisemitism                                                                   |
 | fans.\*\*\*\*\*\*\*.com                   | suspend  | bullying of trans people and endless tirades about them and disabled people by owner                                                                      |
@@ -91,18 +95,25 @@ format:
 | pl.wowana.me                              | suspend  |                                                                                                                                                           |
 | pleroma.pibvt.net                         | suspend  | Child porn                                                                                                                                                |
 | poa.st                                    | suspend  | Antisemitism                                                                                                                                              |
-| poster.place                              | suspend  | racist admin despite claims that racism will not be tolerated                                                                                             |
+| poster.place                              | suspend  | Admin boosts Nazi content, also other vomit-worthy shit                                                                                                   |
 | postin*.*\*\*\*\*\*\*.rocks               | suspend  | Owner identifies as a Nazi (uses the Sonnenrad symbol)                                                                                                    |
+| pp.d\*\*\*\*\*\*\*.xyz                    | suspend  | Admin promotes murder of women                                                                                                                            |
 | prude.party                               | suspend  | Admin super racist, homophobe, transphobe, and antisemite and proud of it                                                                                 |
 | qot*.*rg                                  | suspend  | light-hearted approach towards racism and fascism                                                                                                         |
 | raki.social                               | suspend  |                                                                                                                                                           |
+| rodent.life                               | suspend  | Drawn depiction of children rape (promoted by the Admin no less)                                                                                          |
 | rojogato.com                              | suspend  | Run of the mill “free speech” instance: rampant misogyny, racism, homophobia etc.                                                                         |
+| rot.gives                                 | suspend  | Nazi iconography                                                                                                                                          |
 | ryona.agency                              | suspend  | Antisemitism, Harrasment of Trans people by admin                                                                                                         |
+| skinheads.network                         | suspend  | it’s in the domain name                                                                                                                                   |
 | sleepy.cafe                               | suspend  | blatant racism, anti-Semitism, Russian prop                                                                                                               |
+| sneed.social                              | suspend  | The usual racist homophobia antisemitism qanon mixture                                                                                                    |
 | socia*.*\*\*.\*e.jp                       | suspend  | Admin promots Racism, Homophobia, Antisemitism                                                                                                            |
 | social.beepboop.ga                        | suspend  | NA                                                                                                                                                        |
 | social.hendrixgames.com                   | suspend  | promoting disinformation                                                                                                                                  |
 | spinster.xyz                              | suspend  |                                                                                                                                                           |
+| staging.kazar.ma                          | suspend  | Unauthorized search                                                                                                                                       |
+| tnd.lol                                   | suspend  | Nazism, Homophobia, Antisemitism, incitement for suicide, incitement for mass murder                                                                      |
 | tube.4aem.com                             | suspend  | Hosts literal Nazis                                                                                                                                       |
 | tube.doctors4covidethics.org              | suspend  | COVID antivax conspirasistsm promoting misrepresentation of complete scientific literature                                                                |
 | varishangout.net                          | suspend  | Antisemitism                                                                                                                                              |
