@@ -1,0 +1,34 @@
+---
+title: Tooot.im Federation Restrictions
+date: today
+date-format: iso
+author: aRubes@tooot.im
+
+format:
+  gfm:
+    df-print: kable
+    wrap: preserve
+    preserve-tabs: true
+---
+
+```{r libraries}
+#| echo: false
+#| output: false
+
+library(rtoot)
+library(dplyr)
+```
+
+## Federation Restrictions
+
+
+```{r Restrictions}
+#| echo: false
+
+Restrictions <- rtoot::get_instance_blocks("tooot.im")
+Restrictions <- Restrictions[, -2]
+
+Restrictions
+```
+
+

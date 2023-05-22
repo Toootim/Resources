@@ -1,0 +1,74 @@
+---
+title: Tooot.im Local Emoji
+date: today
+date-format: iso
+author: aRubes@tooot.im
+format:
+  html:
+    embed-resources: true
+    minimal: false
+    theme: 
+      light: United
+      dark: darkly
+    highlight-style: github
+    page-layout: article
+    toc: true
+    toc_float: true
+    toc-title: Contents
+    toc-location: left
+    number-sections: false
+    anchor-sections: true
+    code-fold: true
+    code-overflow: wrap
+    code-line-numbers: true
+    smooth-scroll: true
+    link-external-icon: true
+    link-external-newwindow: true
+    search: false
+    title-block-banner: true
+---
+
+```{r libraries}
+#| echo: false
+#| output: false
+
+library(reactable)
+library(rtoot)
+library(dplyr)
+```
+
+## Local Emoji
+
+::: callout-tip
+## Tip
+
+Be sure to add ':' before and after the shortcode
+:::
+
+```{r emojis}
+emojis <-
+     get_instance_emoji("tooot.im") |> relocate("category") |> arrange(category)
+
+emojis['shortcode'] <- paste0(':',emojis[['shortcode']],':')
+
+names(emojis)[3] <- "Emoji"
+
+
+emojis <- emojis |> reactable(
+     columns = list(
+       Emoji = colDef(cell = function(value) {
+         htmltools::tags$img(src = value, width = "50px", height = "50px")
+       }
+       )),
+     groupBy = "category",
+     filterable = T,
+     sortable = T,
+     searchable = T,
+     defaultPageSize = 30,
+     highlight = T,
+     striped = T,
+     showSortable = T
+    ) 
+
+emojis
+```
