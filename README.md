@@ -3,23 +3,24 @@
 
 # משאבים
 
-[הוויקי שלנו](/Resources/wiki)
+[הוויקי שלנו](../wiki)
 תמונות, גליונות סגנון, מדריכים, שאלות נפוצות ושאר משאבים
 
-- [ברוכות הבאות למסטודון](/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
-- [כמה שרתים נחמדים](/Resources/wiki/instances) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
-- [דו"ח שרתים חסומים, מוגבלים, ואמוג'י מותקנים על השרת](/wiki/Tooot.im report.html) למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
+- [ברוכות הבאות למסטודון](/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
+- [כמה שרתים נחמדים](/wiki/instances) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
+- [דו"ח שרתים חסומים, מוגבלים, ואמוג'י מותקנים על השרת](https://toootim.github.io/Resources/Tooot.im%20report.html) למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
 </div>
 
 <div dir ="ltr">
 
 # Resources (English)
 
-The Following interactive lists can be found [here](/docs/Tooot.im report.html)
+The Following interactive lists can be found [here](https://toootim.github.io/Resources/Tooot.im%20report.html)
 
 - Federation Restrictions List
 - Emoji List
 
+This is a static HTML report.
 </div>
 
 <div dir="rtl">
