@@ -3,22 +3,19 @@
 
 # משאבים
 
-[הוויקי שלנו](https://github.com/Toootim/Resources/wiki)
+[הוויקי שלנו](/Resources/wiki)
 תמונות, גליונות סגנון, מדריכים, שאלות נפוצות ושאר משאבים
 
-- [ברוכות הבאות למסטודון](https://github.com/Toootim/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
-- [כמה שרתים נחמדים](https://github.com/Toootim/Resources/blob/master/info/instances.md) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
-- [רשימת חסימות](info/Tooot.im Federation Report html.html)
-- [רשמת אמוג'י](https://github.com/Toootim/Resources/blob/main/info/Tooot.im%20Emoji%20report%20html.html) 
-- למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
+- [ברוכות הבאות למסטודון](/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
+- [כמה שרתים נחמדים](/Resources/wiki/instances) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
+- [דו"ח שרתים חסומים, מוגבלים, ואמוג'י מותקנים על השרת](/wiki/Tooot.im report.html) למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
 </div>
 
 <div dir ="ltr">
 
 # Resources (English)
 
-The Following interactive lists can be found in the [Wiki](https://github.com/Toootim/Resources/wiki/Searchabele-and-Sortable-Restrictions-&-Emoji-Lists), updated by @aRubes on 2023-02-02
-
+The Following interactive lists can be found [here](/docs/Tooot.im report.html)
 
 - Federation Restrictions List
 - Emoji List
@@ -49,3 +46,5 @@ The Following interactive lists can be found in the [Wiki](https://github.com/To
 | Strawberry Box | Lima Studio | “Digital License” | Iconscout.com | 24/11/2022 | <https://iconscout.com/licenses#iconscout> |
 
 </div>
+
+Last updated by aRubes $Date: 20:02 28/05/2023 $

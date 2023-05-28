@@ -5,9 +5,11 @@ date-format: iso
 author: aRubes@tooot.im
 format:
   gfm:
+    dpi: 32
     df-print: kable
     wrap: preserve
     preserve-tabs: true
+    fig-dpi: 64
 ---
 ```{r libraries}
 #| echo: false
