@@ -3,11 +3,11 @@
 
 # משאבים
 
-[הוויקי שלנו](../wiki)
+[הוויקי שלנו](https://github.com/Toootim/Resources/wiki)
 תמונות, גליונות סגנון, מדריכים, שאלות נפוצות ושאר משאבים
 
-- [ברוכות הבאות למסטודון](/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
-- [כמה שרתים נחמדים](/wiki/instances) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
+- [ברוכות הבאות למסטודון](https://github.com/Toootim/Resources/wiki/Welcome-to-Tooot.im) - מדריך למצטרפים חדשים
+- [כמה שרתים נחמדים](https://github.com/Toootim/Resources/wiki/instances) - למי שרוצה לצאת אל הפדרציה מחוץ לתווותים
 - [דו"ח שרתים חסומים, מוגבלים, ואמוג'י מותקנים על השרת](https://toootim.github.io/Resources/Tooot.im%20report.html) למי שרוצה לדעת עוד על הסיבה לחסימה של שרת או איך למצוא את הקוד של האמוג'י הלוהט התורן
 </div>
 
@@ -48,4 +48,4 @@ This is a static HTML report.
 
 </div>
 
-Last updated by aRubes $Date: 20:02 28/05/2023 $
+Last updated by aRubes $Date: 00:51 29/05/2023 $

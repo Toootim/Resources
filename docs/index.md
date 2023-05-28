@@ -1,7 +1,7 @@
 
 # Resources
 
-The Following interactive lists can be found [here](https://toootim.github.io/Resources/Tooot.im%20report.html), updated by @aRubes on $Date: 00:01 29/05/2023 $
+The Following interactive lists can be found [here](https://toootim.github.io/Resources/Tooot.im%20report.html), updated by @aRubes on $Date: 00:51 29/05/2023 $
 
 - Federation Restrictions List
 - Emoji List
