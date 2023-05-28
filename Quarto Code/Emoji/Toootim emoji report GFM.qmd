@@ -5,12 +5,12 @@ date-format: iso
 author: aRubes@tooot.im
 format:
   gfm:
-    dpi: 32
     df-print: kable
-    wrap: preserve
-    preserve-tabs: true
-    fig-dpi: 64
+    #tbl-colwidths: [40,40,20]
+    standalone: true
+    extract-media: "DIR"
 ---
+
 ```{r libraries}
 #| echo: false
 #| output: false
@@ -36,44 +36,10 @@ emojis['shortcode'] <- paste0(':',emojis[['shortcode']],':')
 
 emojis['url'] <- paste0('![](',emojis[['url']],')')
 
-names(emojis['url']) <- "Output"
+names(emojis)[3] <- "Output"
 
 emojis <- as.data.frame(emojis)
 
 emojis
-
-# emojis <- emojis |> reactable(
-#      groupBy = "category",
-#      filterable = T,
-#      sortable = T,
-#      searchable = T,
-#      defaultPageSize = 30,
-#      highlight = T,
-#      striped = T,
-#      showSortable = T,
-#      showSortIcon = T
-#     )
-
-# df_2_MD <- function(your_df){
-#   cn <- as.character(names(your_df))
-#   headr <- paste0(c("", cn),  sep = "|", collapse='')
-#   sepr <- paste0(c('|', rep(paste0(c(rep('-',3), "|"), collapse=''),length(cn))), collapse ='')
-#   st <- "|"
-#     for (i in 1:nrow(your_df)){
-#       for(j in 1:ncol(your_df)){
-#         if (j%%ncol(your_df) == 0) {
-#           st <- paste0(st, as.character(your_df[i,j]), "|", "\n", "" , "|", collapse = '')
-#         } else {
-#         st <- paste0(st, as.character(your_df[i,j]), "|", collapse = '')
-#         }
-#       }
-#     }
-#   fin <- paste0(c(headr, sepr, substr(st,1,nchar(st)-1)), collapse="\n")
-#   cat(fin)
-# }  
-# 
-# 
-# # run function
-# df_2_MD(emojis)
 
 ```
