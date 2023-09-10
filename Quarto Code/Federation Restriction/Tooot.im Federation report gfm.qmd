@@ -29,6 +29,9 @@ Restrictions <- rtoot::get_instance_blocks("tooot.im")
 Restrictions <- Restrictions[, -2]
 
 Restrictions
+
+
+#cat(Restrictions[[1]])
 ```
 
 

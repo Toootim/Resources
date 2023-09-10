@@ -7,7 +7,7 @@ format:
   gfm:
     df-print: kable
     #tbl-colwidths: [40,40,20]
-    standalone: true
+    standalone: false
     extract-media: "DIR"
 ---
 
@@ -41,5 +41,7 @@ names(emojis)[3] <- "Output"
 emojis <- as.data.frame(emojis)
 
 emojis
+
+#cat(emojis[[2]])
 
 ```
