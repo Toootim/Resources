@@ -36,7 +36,7 @@
     </ul>
     <h2>מנהלי הקהילה</h2>
     <p>יוזר אדמיניות ראשי(@admin)</p>
-    <p>יאיר (@yair) | איירובס (@aRubes) | עדי (@adistav) | טליה (@yuvalne) | יוקה (@yuk_a) | טונה (@TunaMiguel) | שונרא (@Sunra)</p>
+    <p>יאיר (@yair) | עדי (@adistav) | טליה (@yuvalne) | שונרא (@Sunra) | מיכאל (@michbarsinai) | ד"ק (@dk)</p>
     <p>כוהנת אימוג׳י: אנה (@AnnaLiMg)</p>
     <p>אנו ממליצים בחום למצטרפות.ים חדשות לעיין במדריך <a href="https://github.com/Toootim/Resources/wiki/Welcome-to-Tooot.im">ברוכות הבאות למסטודון</a></p>
     <p>השרת מאוכסן בצרפת והדין החל עליו הוא הדין הצרפתי.</p>
@@ -154,149 +154,6 @@
       </tbody>
   </table>
   <p>שרשורים מרובי פוסטים חייבים להיעשות בדרך של תגובה לפוסט הקודם בשרשור, ורצוי מאוד במצב חשיפה unlisted, וזאת על מנת שלא להספים את פיד הבית של העוקבות שלכם ואת הפיד המקומי.</p>
-  <h2>נגישות</h2>
-  <p>משתמשי השרת מתבקשים להשתמש בנדיבות בכלי הנגישות של השרת - תיאורי תמונות וסימון של שפת הפוסט בה הוא נכתב. ניתן להגדיר את שפת ברירת המחדל לפוסטים בקישור: <a href="https://tooot.im/settings/preferences/other">https://tooot.im/settings/preferences/other</a></p>
-  <h2>רובוטים וספאם</h2>
-  <p>החל מה1 בדצמבר 2022, ההרשמה של רובוטים חדשים לשרת זה אסורה. כל הרובוטים הקיימים מתחייבים לעקוב אחרי הכללים הבאים:</p>
-  <ul>
-      <li>בוטים חייבים בסימון חשבונם כבוט.</li>
-      <li>בוטים המפרסמים בתדירות גבוהה חייבים לפרסם בהגדרת פרטיות המונעת את הספמת הפידים הפומביים בשרת - ״לא רשום״ או ״עוקבים בלבד״. מנהלי השרת יביעו מעט מאוד סובלנות לרובוטים שמספימים, לדעתנו, את השרת.</li>
-  </ul>
-  <p>משתמשים אנושיים המפיצים רק או כמעט רק קישורים לתוכן חיצוני או לתוכן לא-מקורי ייחשבו כבוטים לפי פסקה זו.</p>
-  <p><strong>רובוטים שיזכו לחסימה מיידית מהשרת וידווחו לשרתים אחרים:</strong></p>
-  <ul>
-      <li>
-          <p>רובוטי מעקב (followbots) - רובוטים שעוקבים אחרי כל משתמש שהם רואים ברשת המבוזרת ללא אבחנה</p>
-      </li>
-      <li>
-          <p>מנועי חיפוש שלא מספקים אפשרות ויתור (opt-out) ברמת השרת והמשתמשים האינדיבידואלים עוד בטרם האינדוקס הראשון</p>
-      </li>
-  </ul>
-  <div dir="ltr">
-      <p><strong>THE FOLLOWING BOTS WILL BE INSTABLOCKED FROM THIS SERVER AND WILL BE REPORTED TO OTHER SERVERS:</strong></p>
-      <ul>
-          <li>
-              <p>Followbots that follow users indiscriminately across the federation</p>
-          </li>
-          <li>
-              <p>Search engines and index services that don’t offer server-level and user-level opt out prior to the first index</p>
-          </li>
-      </ul>
-  </div>
-  <h3>פרסום ותוכן שיווקי</h3>
-  <p>משתמשים המפיצים רק או כמעט ורק תוכן פרסומי ושיווקי ייחשבו כספאם וייחסמו מהשרת.</p>
-  <p>פרסום ושיווק באופן נקודתי מותר, אך המשתמשים המפרסמים מחויבים לסמן את הפוסט עם התגיות #פרסומת ו-#ad על מנת לאפשר סינון יעיל של הפרסום למשתמשים המעוניינים בכך.</p>
-  <h2>שרתים חסומים</h2>
-  <p>יש שרתים ברשת המבוזרת שלא ניתן להתחבר איתם דרך השרת כי הם חסומים. הרשימה המעודכנת עם הסיבות לחסימה נמצאת תחת הכותרת שרתים מוגבלים בתחתית עמוד זה.עותק נוח יותר לחיפוש נמצא <a href="https://toootim.github.io/Resources/Tooot.im%20report.html">כאן</a>
-</p>
-  <h2>שינויים לכללים</h2>
-  <p>שינויים לכללי הקהילה, ככל שיהיו כאלו, יפורסמו בדף זה ויותרעו בחשבונות האדמינים השונים, ויחייבו את כלל משתמשי השרת מרגע פרסומם.</p>
-  <h2>הערות</h2>
-  <ol>
-      <li>מיקום השרת הנוכחי: צרפת</li>
-  </ol>
-  <h1>רשיון</h1>
-  <p>כללי קהילה אלו מפורסמים תחת רישיון <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons ייחוס-לא מסחרי-שיתוף זהה 4.0</a>.</p>
-  <div dir="ltr">
-      <h3 id="emoji-and-other-graphics-license-and-attribution">Emoji and other Graphics license and attribution</h3>
-      <table>
-          <thead>
-              <tr>
-                  <th>Element &amp; Creator Link</th>
-                  <th>Provider</th>
-                  <th>license</th>
-                  <th>license Defintion by</th>
-                  <th>license date</th>
-                  <th>license link</th>
-              </tr>
-          </thead>
-          <tbody>
-              <tr>
-                  <td>Flatart Vealentine’s Emoji pack</td>
-                  <td>FlatArt</td>
-                  <td>“Free For Commercial Use”</td>
-                  <td>Iconfinder.com</td>
-                  <td>24/11/2022</td>
-                  <td><a href="https://support.iconfinder.com/en/articles/18233-license-overview">https://support.iconfinder.com/en/articles/18233-license-overview</a></td>
-              </tr>
-              <tr>
-                  <td>Strawberry Icon Pack</td>
-                  <td>Sonni Sokell</td>
-                  <td>“Digital License”</td>
-                  <td>Iconscout.com</td>
-                  <td>24/11/2022</td>
-                  <td><a href="https://iconscout.com/licenses#iconscout">https://iconscout.com/licenses#iconscout</a></td>
-              </tr>
-              <tr>
-                  <td>Strawberry2 Emoji</td>
-                  <td>Streamlinehq:Vincent Le Moign</td>
-                  <td>Creative Commons - CC BY 4.0</td>
-                  <td>Creative Commons</td>
-                  <td>24/11/2022</td>
-                  <td><a href="https://creativecommons.org/licenses/by/4.0/">https://creativecommons.org/licenses/by/4.0/</a></td>
-              </tr>
-              <tr>
-                  <td>Strawberry Box</td>
-                  <td>Lima Studio</td>
-                  <td>“Digital License”</td>
-                  <td>Iconscout.com</td>
-                  <td>24/11/2022</td>
-                  <td><a href="https://iconscout.com/licenses#iconscout">https://iconscout.com/licenses#iconscout</a></td>
-              </tr>
-          </tbody>
-      </table>
-  </div>
-  <h1>צוי איסור פרסום</h1>
-  <p>קנרית צא&quot;פ – 24 באוקטובר 2022</p>
-  <p>השרת לא קיבל אף מכתב רשמי או צו תחת איסור פרסום. הודעה זו תתעדכן עד 1 בפברואר 2023 אם מצב זה לא השתנה.</p>
-  <h1>תרומות לתחזוקת תווות.ים</h3>
-=======
-            tr:nth-child(even) {
-                background-color: #563CCD;
-            }
-        </style>
-        <thead>
-            <tr>
-                <th></th>
-                <th>public 🌏</th>
-                <th>unlisted 🔓</th>
-                <th>בעוקבים בלבד 🔒</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>דיונים פוליטיים</td>
-                <td>❌</td>
-                <td>✅</td>
-                <td>✅</td>
-            </tr>
-            <tr>
-                <td>אנימציות או סרטונים שמרצדים או משתנים במהירות</td>
-                <td>❌</td>
-                <td>❌</td>
-                <td>❌</td>
-            </tr>
-            <tr>
-                <td>עירום, תוכן פורנוגרפי או מיני מאוד, כולל תוכן פורנוגרפי טקסטואלי</td>
-                <td>❌</td>
-                <td>❌</td>
-                <td>✅</td>
-            </tr>
-            <tr>
-                <td>כל תוכן המציג אלימות (כולל ייצוגים גרפיים של אנשים מתים וחיות מתות, ושל אנשים חמושים) או מדבר על התכנים האסורים בשרת</td>
-                <td>❌</td>
-                <td>❌</td>
-                <td>✅</td>
-            </tr>
-            <tr>
-                <td>תמונות מזון הכולל בשר</td>
-                <td>❌</td>
-                <td>❌</td>
-                <td>✅</td>
-            </tr>
-        </tbody>
-    </table>
-    <p>שרשורים מרובי פוסטים חייבים להיעשות בדרך של תגובה לפוסט הקודם בשרשור, ורצוי מאוד במצב חשיפה unlisted, וזאת על מנת שלא להספים את פיד הבית של העוקבות שלכם ואת הפיד המקומי.</p>
     <h2>נגישות</h2>
     <p>משתמשי השרת מתבקשים להשתמש בנדיבות בכלי הנגישות של השרת - תיאורי תמונות וסימון של שפת הפוסט בה הוא נכתב. ניתן להגדיר את שפת ברירת המחדל לפוסטים בקישור: <a href="https://tooot.im/settings/preferences/other">https://tooot.im/settings/preferences/other</a></p>
     <h2>רובוטים וספאם</h2>
@@ -409,8 +266,6 @@
   <p>נכון לתאריך 30 ביולי 2023 השרת לא קיבל אף מכתב רשמי או צו תחת איסור פרסום. הודעה זו תתעדכן עד 1 באוקטובר 2023 אם מצב זה לא השתנה. במידת האפשר, ההודעה תוסר לחלוטין אם יתקבלו מכתב או צו כאלה.
 </p>
     <h1>תרומות לתחזוקת תווות.ים</h3>
->>>>>>> d93ba73daeb515f8f2f8d107f35d89994709bf2c
-
         <div style="text-align:center;line-height:150%">
             <a href="https://www.patreon.com/toootim"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Patreon_logo.svg/541px-Patreon_logo.svg.png" alt="לוגו פטראון" style="border:0;" width="150" height="auto"/></a>
             <br/>
